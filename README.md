@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jacob771
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Algorithms
-- 🌱 I’m currently learning Statistics and the Applications with Python, SQL, and R
-- 💞️ I’m looking to combine intuitions with my background in Computer Science and Economics.
+- 👀 I’m interested in the field of Data Science, applications towards producing marginal utility from big data.
+- 🌱 I’m currently consolidating my interests in Machine Learning and Statistics with languages including Python, SQL, and R.
+- 💞️ I’m looking to join in a community where I am able to advance my quality as a data scientist from the collaboration with peers in same concerns.
 - 📫 You may contact me with an email address: ss10368@nyu.edu
 
 <!---
